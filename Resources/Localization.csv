@@ -1,0 +1,117 @@
+﻿1;English;Español;Català
+ID_Options;Options;Opciones;Opcions
+ID_Graphics;Graphics;Gráficos;Gràfics
+ID_Audio;Audio;Audio;Àudio
+ID_Others;Others;Otros;Altres
+ID_OPT_Resolution;Resolution;Resolución;Resolució
+ID_OPT_FullScreen;Full Screen;Pantalla Completa;Pantalla Completa
+ID_OPT_VSync;VSync;VSync;VSync
+ID_OPT_Reset;Reset;Restablecer;Restablir
+ID_OPT_VolumeMaster;Master;General;General
+ID_OPT_Music;Music;Música;Música
+ID_OPT_SFX;SFX;SFX;SFX
+ID_OPT_Voice;Voice;Voces;Veus
+ID_OPT_CursorLock;Cursor Lock;Bloquear Cursor;Bloquejar Cursor
+ID_OPT_Subtitles;Subtitles;Subtítulos;Subtítols
+ID_OPT_CameraShake;Camera Shake;Cámara Shake;Càmara Shake
+ID_OPT_Language;Language;Lenguaje;Llenguatge
+ID_Description_OPT_Resolution;Sets the resolution of the game window;Establece la resolución de la ventana del juego;Estableix la resolució de la finestra del joc
+ID_Description_OPT_FullScreen;Full screen or windowed;Pantalla completa o ventana;Pantalla completa o finestra
+ID_Description_OPT_VSync;Sets frame rate to screen refresh rate. If things look fine, let it on;Establece la velocidad de fotogramas a la frecuencia de actualización de la pantalla. Si las cosas se ven bien, déjalo así;Estableix la velocitat de fotogrames a la freqüència d'actualització de la pantalla. Si les coses es veuen bé, deixa-ho així
+ID_Description_OPT_Reset;Resets all * configuration to its default;Restablece toda la configuración de * a su valor predeterminado;Restableix tota la configuració de * al valor predeterminat
+ID_Description_OPT_VolumeMaster;Changes the master volume of the game;Cambia el volumen General del juego;Canvia el volum General del joc
+ID_Description_OPT_Volume;Changes the volume of *;Cambia el volumen de * del juego;Canvia el volum de * del joc
+ID_Description_OPT_CursorLock;There's no escape! (for your mouse cursor from this window during gameplay);¡No hay escapatoria! (para el cursor de la ventana de juego durante el gameplay);No hi ha escapatòria! (per al cursor de la finestra de joc durant el gameplay)
+ID_Description_OPT_Subtitles;Display text captions during speech;Mostrar subtítulos de los diálogos;Mostrar subtítols dels diàlegs
+ID_Description_OPT_CameraShake;Turn this off if screen-shake effects don't sit well or if you don't like them;Desactívalo si los efectos de vibración de la pantalla no le sientan bien o si no le gustan;Desactiva-ho si els efectes de vibració de la pantalla no et senten bé o si no t'agraden
+ID_Description_OPT_Language;Current language of all game texts;Idioma actual de todos los textos del juego;Idioma actual de tots els textos del joc
+ID_NewGame;New Game;Nueva Partida;Nova Partida
+ID_Exit;Exit;Salir;Sortir
+ID_Mirror_Puzzle_01;Jumping crocodiles!! What a shaking…;¡¡Rayos y centellas!! Vaya temblor…;Ostres postres!! Quin tremolor.
+ID_Mirror_Puzzle_02;Something must have shaken the house.;Algo ha debido sacudir la casa.;Alguna cosa ha hagut de sacsejar la casa.
+ID_Mirror_Puzzle_03;The tremor has messed up the whole old man's room, we'd better tidy it up if we don't want trouble.;El temblor ha desordenado toda la habitación del viejo, será mejor que la ordenemos si no queremos problemas.;El tremolor ha desordenat tota l'habitació del vell, serà millor que l'ordenem si no volem problemes.
+ID_Dialogo_Nivel1_Libro_01;Hey! Are you the wizard's grandson?;¡Eiiii! ¿Eres el nieto del mago?;Ei! Ets el nét del mag?
+ID_Dialogo_Nivel1_Libro_02;I've been waiting since your letter.;He estado esperando desde tu carta.;He estat esperant des de la teva carta.
+ID_Dialogo_Nivel1_Libro_03;I'll help you get to your grandad.;Te ayudaré a llegar hasta tu abuelo.;T'ajudaré a arribar fins al teu avi.
+ID_Dialogo_Nivel1_Libro_04;But there are a lot of puzzles that will block your path.;Pero hay muchos puzzles que bloquearán tu camino.;Però hi ha molts trencaclosques que bloquejaran el teu camí.
+ID_Dialogo_Nivel1_Libro_05;You should start by moving that box over there.;Deberias empezar moviendo esa caja allí.;Hauries de començar movent aquesta caixa allà.
+ID_Dialogo_Nivel1_Libro2_01;Hey, I don't think you can reach that box over there.;Oye, no creo que llegues a esa caja de ahí.;Ei, no crec que arribis a aquesta caixa d'allà.
+ID_Dialogo_Nivel1_Libro2_02;Besides flying, I have the ability to transform into some objects.;Además de volar, tengo la habilidad de transformarme en algunos objetos.;A més de volar, tinc l'habilitat de transformar-me en alguns objectes.
+ID_Dialogo_Nivel1_Libro2_03;I can help you access objects that are out of your reach!;¡Puedo ayudarte a alcanzar objetos que están fuera de tu alcance!;Puc ajudar-te a arribar a objectes que estan fora del teu abast!
+ID_Dialogo_Nivel1_Puerta_01;Hello boss!;¡Hola jefe!;Hola cap!
+ID_Dialogo_Nivel1_Puerta_02;Wait... You're not the boss!;Espera... ¡No eres el jefe!;Espera... No ets el cap!
+ID_Dialogo_Nivel1_Puerta_03;Get out of here, you can't pass through here!;¡Fuera de aquí, no puedes pasar por aquí!;Fora d'aquí, no pots passar per aquí!
+ID_Dialogo_Nivel1_Puerta_04;If you want to go to the wizard's office, it will have to be from another side.;Si quieres ir al despacho del mago, tendrá que ser por otro lado.;Si vols anar al despatx del cap, haurà de ser per un altre costat.
+ID_Dialogo_Nivel2_Monstruo_01;It seems that upon arriving here you have alerted the monster.;Parece que al llegar aquí has alertado al monstruo.;Sembla que en arribar aquí has alertat el monstre.
+ID_Dialogo_Nivel2_Monstruo_02;I don't know how you entered safe and sound.;No sé ni cómo has entrado sano y salvo.;No sé com has entrat sa i estalvi.
+ID_Dialogo_Nivel2_Book_01;Hello little one, I am the book queen!;¡Hola pequeñín, soy la reina libro!;Hola petit, sóc la reina llibre!
+ID_Dialogo_Nivel2_Book_02;Hello mom, I missed you!;¡Hola mamá, te he echado de menos!;Hola mama, t'he trobat a faltar!
+ID_Dialogo_Nivel2_Book_03;My prodigious son... I see you're fulfilling your mission.;Mi hijo prodigio... Veo que estás cumpliendo tu misión.;El meu fill prodigi... Veig que estàs complint la teva missió.
+ID_Dialogo_Nivel2_Book_04;I promised the wizard that I would help his grandson in everything.;Le prometí al mago que ayudaría a su nieto en todo.;Li vaig prometre al mag que ajudaria el seu nét en tot.
+ID_Dialogo_Nivel2_Book_05;Thank you, son, Mom loves you, never forget it.;Gracias hijo, mamá te quiere, nunca lo olvides.;Gràcies, fill, la mare t'estima, mai ho oblidis.
+ID_DialogoEvento_Nivel3_01;Oh my God, what a blow. It seems like the guardian is not happy that we are snooping around your grandfather's house.;Dios mío, menudo golpe. Parece que el protector no está contento de que estemos husmeando por la casa de tu abuelo.;Déu meu, quin cop. Sembla que el protector no està content que estiguem remenant per la casa del teu avi.
+ID_Dialogo_Nivel3_Rol_01;Welcome to the capital of the country of Septim! In the previous game, you camped under the statue of Gaba...;¡Bienvenido a la capital del país de Septim! En el juego anterior, acampaste bajo la estatua de Gaba...;¡Benvingut a la capital del país de Septim! En el joc anterior, vas acampar sota l'estàtua de Gaba...
+ID_Dialogo_Nivel3_Rol_02;Wait, you're not the boss, nor any of his playmates.;Espera, no eres el jefe ni ninguno de sus compañeros de juego.;Espera, no ets el cap ni cap dels seus companys de joc.
+ID_Dialogo_Nivel3_Rol_03;Well, welcome to the game room. In this place, we have all the games you can imagine, even the most modern ones. ;Bueno, bienvenido a la sala de juegos. En este lugar, tenemos todos los juegos que puedas imaginar, incluso los más modernos.;Bé, benvingut a la sala de jocs. En aquest lloc, tenim tots els jocs que puguis imaginar, fins i tot els més moderns.
+ID_DialogoEvento_Nivel4_01;This can't be! It's impossible. The monster's blow must have messed up everything. ;¡No puede ser! Esto es imposible. El golpe del monstruo debe haber desorganizado todo. ;No pot ser! Això és impossible. El cop del monstre ha de haver desorganitzat tot. 
+ID_DialogoEvento_Nivel4_01_ext;You'll need to rearrange everything!;¡Necesitarás reorganizarlo todo!;Hauràs de reorganitzar-ho tot!
+ID_DialogoEvento_Nivel4_02;But don't worry, the mirror has an enchantment that will be very useful to you.;Pero no te preocupes, el espejo tiene un encantamiento que te será muy útil. Refleja la posición real donde deberían estar los objetos. ;Però no et preocupis, el mirall té un encanteri que et serà molt útil. 
+ID_DialogoEvento_Nivel4_02_ext;It reflects the real positions where the objects should be. You just have to place them in the same place.;Solo debes colocarlos en el mismo sitio.;Reflecteix la posició real on haurien d'estar els objectes. Només has de col·locar-los al mateix lloc.
+ID_DialogoEvento_Nivel5_01;From here, I see everything, but I had never seen the grandson before.;Desde aquí lo veo todo, pero nunca había visto al nieto.;Des d'aquí ho veig tot, però mai havia vist al nét.
+ID_DialogoEvento_Nivel5_02;You seem very calm.;Te veo muy tranquilo.;Et veig molt tranquil.
+ID_DialogoEvento_Nivel5_03;How are you, Mr. Telescope? Why should we be worried?;¿Qué tal, señor telescopio? ¿Por qué deberíamos estar preocupados?;Com està, senyor telescopi? Per què hauríem d'estar preocupats?
+ID_DialogoEvento_Nivel5_04;Don't you see that the monster has access to this room?;¿No ves que el monstruo tiene acceso a esta sala?;No veus que el monstre té accés a aquesta sala?
+ID_DialogoEvento_Nivel5_05;Run away, the boss wants to see you alive.;Huye, el jefe quiere veros con vida.;Fugiu, el cap vol veure'os amb vida.
+ID_Dialogo_Nivel6_01;Here are all the magic books in the world.;Aquí están todos los libros de magia del mundo.;Aquí hi són tots els llibres de màgia del món.
+ID_Dialogo_Nivel6_02;Your grandfather has always wanted to teach you magic.;Tu abuelo siempre ha querido enseñarte magia.;El teu avi sempre ha volgut ensenyar-te màgia.
+ID_Dialogo_Nivel6_03;He always regretted that your parents forbade you to come.;Siempre lamentó que tus padres te prohibieran venir.;Sempre va lamentar que els teus pares et prohibissin venir.
+ID_Dialogo_Nivel6_04;But know that your grandfather loves you...;Pero que sepas que tu abuelo te quiere...;Però sàpigues que el teu avi t'estima...
+ID_Dialogo_Nivel6_05;But soon we will see him and you can talk!;¡Pero pronto lo veremos y podréis hablar!;Però aviat el veurem i podreu parlar!
+ID_Dialogo_Nivel6_01_01;That's the key you need!;¡Esa es la llave que necesitas!;Aquesta és la clau que necessites!
+ID_Dialogo_Nivel6_01_02;With that key, the wizard's room is unlocked.;Con esa llave se desbloquea la habitación del mago.;Amb aquesta clau s'obre l'habitació del mag.
+ID_Dialogo_Nivel6_01_03;Go and get it.;Ve a buscarla.;Ves a buscar-la.
+ID_Dialogo_Nivel6_02_01;Finally, the guardian is defeated.;Al fin derrotas al guardian;Finalment derrotes el guardià.
+ID_Dialogo_Nivel6_02_02;I always hated him.;Siempre lo odié.;Sempre l'he odiat.
+ID_Dialogo_Nivel6_02_03;Go see your grandad!;Ve a ver a tu abuelo!;Ves a veure el teu avi!
+ID_Controls;Controls;Controles;Controls
+ID_Continue;Continue;Continuar;Continuar
+ID_ToTitle;Exit to Title;Salir al Titulo;Sortir al Títol
+ID_Loading;Loading…;Cargando…;Carregant…
+ID_Room1;Entrance;Entrada;Entrada
+ID_Room2;Dovecote;Palomar;Colomar
+ID_Room3;Games Room;Sala de Juegos;Sala de Jocs
+ID_Room4;Planetarium;Planetario;Planetari
+ID_Room5;Library;Biblioteca;Biblioteca
+ID_Up;Up;Arriba;Amunt
+ID_Down;Down;Abajo;Abaix
+ID_Release;Release;Soltar;Deixar
+ID_Move;Move;Moverte;Moure's
+ID_Jump;Jump/Book Up;Saltar/Subir Libro;Saltar/Pujar Llibre
+ID_BookDown;Book Down;Bajar Libro;Baixar Llibre
+ID_Interact;Interact;Interactuar;Interactuar
+ID_BookMode;Book Mode;Modo Libro;Mode Llibre
+ID_Pause;Pause;Pausa;Pausa
+ID_Shapeshift;No space to shapeshift here!;¡No hay espacio para cambiar de forma aquí!;Aquí no hi ha espai per canviar de forma!
+ID_Credits;Credits;Creditos;Crèdits
+ID_Programmers;Programmers;Programadores;Programadors
+ID_Animator;Animator;Animador;Animador
+ID_Artists;3D Artists;Artistas 3D;Artistes 3D
+ID_SoundUI;UI & Sound;UI y Sonido;UI i Só
+ID_Design;Designer;Diseñador;Dissenyador
+ID_Carta_01;12th March 1985;12 de Marzo 1985;12 de Març 1985
+ID_Carta_02;Hello, Grandpa,;¡Hola, iaio!;Hola, avi!
+ID_Carta_03;I come to tell you that I'm going to see you at your house today.;Vengo a decirte que voy a verte a tu casa hoy.;Vinc a dir-te que vindré a veure't a casa avui.
+ID_Carta_04;Mom and dad told me that I can't talk to you.;La mamá y el papá me han dicho que no puedo hablar contigo.;La mare i el pare m'han dit que no puc parlar amb tu.
+ID_Carta_05;But I found a map that leads to your house.;Pero he encontrado un mapa que lleva a tu casa.;Però he trobat un mapa que porta a casa teva.
+ID_Carta_06;After lunch, I will grab my backpack and go to see you.;Después de comer cojo la mochila y voy a verte.;Després de dinar, agafo la motxilla i vaig a veure't.
+ID_Carta_07;Wait for me 'cause I really wanna meet you.;¡Esperame, que tengo muchas ganas de visitarte!;Espera'm perquè tinc moltes ganes de visitarte.
+ID_Carta_08;I love you <3;¡Te quiero! <3;T'estimo <3
+ID_Libro;Mr. Shapeshifter;Sr. Shapeshifer;Sr. Shapeshifter
+ID_Candado;Sir Lock;Don Lock;Don Lock
+ID_Madre;Book Queen;Reina Libro;Reina Llibre
+ID_Telescopio;Mr. Telescope;Sr. Telescopio;Sr. Telescopi
+ID_Rol;Ms. Pompelwere;Sra. Pompelwere;Sra. Pompelwere
+ID_Dialogo_final;Son, it's mealtime!!!!;Hijo, a comer!!!!;Fill, a dinar!!!!
+ID_Madre_Final;Mother;Madre;Mare
+ID_Press1;Press;Pulsa;Prem
+ID_Press2;to use the Shapeshifter;para usar el Cambiaformas;per utilitzar el Cambiaformes

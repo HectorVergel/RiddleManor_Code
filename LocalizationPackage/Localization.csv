@@ -1,0 +1,29 @@
+﻿ID;English;Español;Català
+ID_Options;Options;Opciones;Opcions
+ID_Graphics;Graphics;Gráficos;Gràfics
+ID_Audio;Audio;Audio;Àudio
+ID_Others;Others;Otros;Altres
+ID_OPT_Resolution;Resolution;Resolución;Resolució
+ID_OPT_FullScreen;Full Screen;Pantalla Completa;Pantalla Completa
+ID_OPT_VSync;VSync;VSync;VSync
+ID_OPT_Reset;Reset;Restablecer;Restablir
+ID_OPT_VolumeMaster;Master;General;General
+ID_OPT_Music;Music;Música;Música
+ID_OPT_SFX;SFX;SFX;SFX
+ID_OPT_Voice;Voice;Voces;Veus
+ID_OPT_CursorLock;Cursor Lock;Bloquear Cursor;Bloquejar Cursor
+ID_OPT_Subtitles;Subtitles;Subtítulos;Subtítuls
+ID_OPT_CameraShake;Camera Shake;Cámara Shake;Càmara Shake
+ID_OPT_Language;Language;Lenguaje;Llenguatge
+ID_Description_OPT_Resolution;Sets the resolution of the game window;Establece la resolución de la ventana del juego;Estableix la resolució de la finestra del joc
+ID_Description_OPT_FullScreen;Full screen or windowed;Pantalla completa o ventana;Pantalla completa o finestra
+ID_Description_OPT_VSync;Sets frame rate to screen refresh rate. If things look fine, let it on;Establece la velocidad de fotogramas a la frecuencia de actualización de la pantalla. Si las cosas se ven bien, déjalo así;Estableix la velocitat de fotogrames a la freqüència d'actualització de la pantalla. Si les coses es veuen bé, deixa-ho així
+ID_Description_OPT_Reset;Resets all * configuration to its default;Restablece toda la configuración de * a su valor predeterminado;Restableix tota la configuració de * al valor predeterminat
+ID_Description_OPT_VolumeMaster;Changes the master volume of the game;Cambia el volumen General del juego;Canvia el volum General del joc
+ID_Description_OPT_Volume;Changes the volume of *;Cambia el volumen de * del juego;Canvia el volum de * del joc
+ID_Description_OPT_CursorLock;There's no escape! (for your mouse cursor from this window during gameplay);¡No hay escapatoria! (para el cursor de la ventana de juego durante el gameplay);No hi ha escapatòria! (per al cursor de la finestra de joc durant el gameplay)
+ID_Description_OPT_Subtitles;Display text captions during speech;Mostrar subtítulos de los diálogos;Mostrar subtítols dels diàlegs
+ID_Description_OPT_CameraShake;Turn this off if screen-shake effects don't sit well or if you don't like them;Desactívalo si los efectos de vibración de la pantalla no le sientan bien o si no le gustan;Desactiva-ho si els efectes de vibració de la pantalla no et senten bé o si no t'agraden
+ID_Description_OPT_Language;Current language of all game texts;Idioma actual de todos los textos del juego;Idioma actual de tots els textos del joc
+ID_Play;Play;Jugar;Jugar
+ID_Exit;Exit;Salir;Sortir

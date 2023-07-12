@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce812a858f3d78043a58909ce287be24, type: 3}
+  m_Name: Nivel00_1 1
+  m_EditorClassIdentifier: 
+  textID: Dialogo_Nivel1_Libro_01
+  audio: []
+  TargetNode: {fileID: 11400000, guid: f8e7f33bc21010c41b73cafdabf95aef, type: 2}
+  emisorID: Libro
+  nameColor: {r: 0.8397406, g: 0.4801976, b: 0.9339623, a: 1}
